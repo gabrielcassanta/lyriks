@@ -1,3 +1,4 @@
+/* eslint-disable implicit-arrow-linebreak */
 import { configureStore } from '@reduxjs/toolkit';
 
 import playerReducer from './features/playerSlice';
